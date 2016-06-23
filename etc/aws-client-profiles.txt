@@ -1,0 +1,2 @@
+##Put here your aws account it configured with aws configure --profile
+## Remember that any line with # must be deleted
